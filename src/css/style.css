@@ -1,0 +1,71 @@
+* {
+  font-family: "Ropa Sans";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  min-width: 1170px;
+  margin: 0 auto;
+  padding: 1.5rem 0;
+  width: 90%;
+  position: relative;
+  background-image: url("/images/backgrounds/background_home_2.jpg");
+  background-size: 100%;
+  background-position-y: -300px;
+}
+
+.header-heightMiddle {
+  height: 300px;
+  border: 1px solid #000;
+}
+
+.logo__slogan {
+  font-size: 3rem;
+  text-shadow: 2px 2px 1px rgba(1, 1, 8, 0.6);
+}
+
+.navbar {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.navbar__nav, .socialMedia__icones {
+  list-style: none;
+}
+
+.navbar__link {
+  color: #f1f806;
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-decoration: none;
+}
+.navbar__link:hover {
+  color: #fff;
+}
+
+.m-1 {
+  margin: 1rem;
+}
+
+.mx-1 {
+  margin: 0 1.2rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/*# sourceMappingURL=style.css.map */
