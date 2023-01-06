@@ -27,7 +27,7 @@ $n:0;
 @each $titulo,$url in $imgs{
     $n:$n+1;
     #card#{$n}{
-        background-image: url(/images/produtos/#{$url});
+        background-image: url(./images/produtos/#{$url});
         background-size: cover;
 
         & h2::before{
