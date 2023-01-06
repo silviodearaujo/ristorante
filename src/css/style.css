@@ -6,7 +6,7 @@
 }
 
 #card1 {
-  background-image: url(/images/produtos/beef-g66eb2a540_1920.jpg);
+  background-image: url(../../images/produtos/beef-g66eb2a540_1920.jpg);
   background-size: cover;
 }
 #card1 h2::before {
@@ -18,7 +18,7 @@
 }
 
 #card2 {
-  background-image: url(/images/produtos/breakfast-ga9b591474_1920.jpg);
+  background-image: url(../../images/produtos/breakfast-ga9b591474_1920.jpg);
   background-size: cover;
 }
 #card2 h2::before {
@@ -30,7 +30,7 @@
 }
 
 #card3 {
-  background-image: url(/images/produtos/noodles-7390775_1920.jpg);
+  background-image: url(../../images/produtos/noodles-7390775_1920.jpg);
   background-size: cover;
 }
 #card3 h2::before {
@@ -42,7 +42,7 @@
 }
 
 #card4 {
-  background-image: url(/images/produtos/potato-soup-2152265_1920.jpg);
+  background-image: url(../../images/produtos/potato-soup-2152265_1920.jpg);
   background-size: cover;
 }
 #card4 h2::before {
@@ -54,7 +54,7 @@
 }
 
 #card5 {
-  background-image: url(/images/produtos/rice-noodles-855077_1920.jpg);
+  background-image: url(../../images/produtos/rice-noodles-855077_1920.jpg);
   background-size: cover;
 }
 #card5 h2::before {
@@ -66,7 +66,7 @@
 }
 
 #card6 {
-  background-image: url(/images/produtos/salad-gf22844a91_1920.jpg);
+  background-image: url(../../images/produtos/salad-gf22844a91_1920.jpg);
   background-size: cover;
 }
 #card6 h2::before {
@@ -78,7 +78,7 @@
 }
 
 #card7 {
-  background-image: url(/images/produtos/spare-ribs-7410906_1920.jpg);
+  background-image: url(../../images/produtos/spare-ribs-7410906_1920.jpg);
   background-size: cover;
 }
 #card7 h2::before {
@@ -90,7 +90,7 @@
 }
 
 #card8 {
-  background-image: url(/images/produtos/sushi-354628_1920.jpg);
+  background-image: url(../../images/produtos/sushi-354628_1920.jpg);
   background-size: cover;
 }
 #card8 h2::before {
@@ -102,7 +102,7 @@
 }
 
 #card9 {
-  background-image: url(/images/produtos/taco-4709325_1920.jpg);
+  background-image: url(../../images/produtos/taco-4709325_1920.jpg);
   background-size: cover;
 }
 #card9 h2::before {
@@ -123,7 +123,7 @@
   padding: 1.5rem 0;
   width: 90%;
   position: relative;
-  background-image: url("/images/backgrounds/background_home.jpg");
+  background-image: url("../../images/backgrounds/background_home.jpg");
   background-size: 100%;
   background-position-y: -300px;
 }
